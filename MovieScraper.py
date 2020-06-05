@@ -9,8 +9,6 @@ Created on Fri Jun  5 14:29:39 2020
 import pandas as pd
 import numpy as nm
 
-
-
 class Scraper:
     def __init__(self,initial_url):
         self.initial_url= initial_url
